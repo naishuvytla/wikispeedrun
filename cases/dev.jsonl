@@ -1,0 +1,3 @@
+{"id": "dev-01", "difficulty": "easy", "start": "Philadelphia", "target": "Benjamin Franklin", "max_hops": 1}
+{"id": "dev-02", "difficulty": "easy", "start": "Cheesesteak", "target": "Benjamin Franklin", "max_hops": 4}
+{"id": "dev-03", "difficulty": "edge", "start": "Philadelphia", "target": "Mercury", "expected_status": "needs_disambiguation"}

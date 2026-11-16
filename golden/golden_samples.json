@@ -1,0 +1,66 @@
+[
+  {
+    "start": "Violin",
+    "target": "Rome",
+    "verified": true,
+    "hops": [
+      {
+        "page": "Italy",
+        "reason": "the violin is tied to Italy, and Italy contains Rome"
+      },
+      {
+        "page": "Rome",
+        "reason": "direct link to target"
+      }
+    ]
+  },
+  {
+    "start": "Coffee",
+    "target": "Portugal",
+    "verified": true,
+    "hops": [
+      {
+        "page": "Brazil",
+        "reason": "Brazil is the top coffee producer and has ties to Portugal"
+      },
+      {
+        "page": "Portugal",
+        "reason": "direct link to target"
+      }
+    ]
+  },
+  {
+    "start": "Association football",
+    "target": "Nuclear weapon",
+    "verified": true,
+    "hops": [
+      {
+        "page": "World War II",
+        "reason": "a broad history hub near the target"
+      },
+      {
+        "page": "Nuclear weapon",
+        "reason": "direct link to target"
+      }
+    ]
+  },
+  {
+    "start": "Banana",
+    "target": "Mount Everest",
+    "verified": false,
+    "hops": [
+      {
+        "page": "India",
+        "reason": "a major banana producer, and a country next to the Himalayas"
+      },
+      {
+        "page": "Himalayas",
+        "reason": "geography hub containing the target"
+      },
+      {
+        "page": "Mount Everest",
+        "reason": "direct link to target"
+      }
+    ]
+  }
+]
